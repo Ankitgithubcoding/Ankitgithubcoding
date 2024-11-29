@@ -8,13 +8,10 @@
 🌱 Currently exploring advanced analytics and big data technologies.
 📚 Always excited to learn about new trends in data science and analytics.
 🛠️ Tech Stack:
-Programming Languages: Python, R, SQL
+Programming Languages: Python, SQL
 Data Visualization Tools: Tableau, Power BI, Matplotlib, Seaborn
-Databases: MySQL, PostgreSQL
+Databases: MySQL
 Other Tools: Excel, Jupyter Notebook, VS Code
-Data Engineering Basics: ETL pipelines, basic knowledge of Hadoop and Spark
-📂 Notable Projects:
-Customer Churn Prediction
 
 Built a predictive model to identify customers likely to churn.
 Utilized logistic regression, decision trees, and random forests.
